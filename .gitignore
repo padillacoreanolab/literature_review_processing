@@ -2,6 +2,7 @@
 data/
 bin/
 env/
+*env/
 old/
 proc/
 
